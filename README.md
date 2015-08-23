@@ -1,6 +1,6 @@
 # Message interface for Slipstream
 
-[![Shippable](https://img.shields.io/shippable/557f6d30edd7f2c05219256f.svg)](https://app.shippable.com/projects/557f6d30edd7f2c05219256f)
+[![Shippable](https://img.shields.io/shippable/557f6d30edd7f2c052192571.svg)](https://app.shippable.com/projects/557f6d30edd7f2c052192571)
 
 ![Slipstream: X-Men](https://s3-ap-southeast-2.amazonaws.com/pixy-marketing/github/slipstream.jpg)
 
